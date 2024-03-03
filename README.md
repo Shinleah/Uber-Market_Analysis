@@ -5,8 +5,9 @@
 **[Leah_Shin][https://github.com/Shinleah]**
 
 
-# Uber Market Analysis from Statistics Canada data with Excel and Power-Bi (Image from Uber)
+# Uber Market Analysis from Statistics Canada data with Excel and Power-Bi 
 ![alt text](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Uber.PNG)
+* (Image from Uber)
 
 ## Project Objective
 * This report explores how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
