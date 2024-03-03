@@ -6,7 +6,7 @@
 
 
 # Uber Market Analysis from Statistics Canada data with Excel and Power-Bi (Image from Uber)
-![image][[(https://mashable.com/article/uber-font-new-logo)]]
+![image][[[(https://mashable.com/article/uber-font-new-logo)](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Uber.PNG)]]
 
 ## Project Objective
 * This report aims to explore how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
