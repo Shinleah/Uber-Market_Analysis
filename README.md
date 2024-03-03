@@ -9,7 +9,7 @@
 ![alt text](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Uber.PNG)
 
 ## Project Objective
-* This report aims to explore how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
+* This report explores how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
 
 ## Dataset
 * The dataset can be accessed from Statistics Canada: 
@@ -21,26 +21,26 @@
 ## Market Analysis
 * Load the Raw Data.
 * Data cleaning is performed power query using M query and DAX measures.
-* Made sure data normalized and keep granularity, dropping unnecessary rows, and cleaning individual rows.
+* Made sure data was normalized and kept granularity, dropping unnecessary rows, and cleaning individual rows.
 * Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 ## Questions
-Follwoing questions are identifed to capture key measurements:
+Following questions are identified to capture key measurements:
 
 * What are the provincial and regional trends in commuting hours within Canada?
-* What trends can be observed in transportation preferences and customer behavior between provinces and regions?  
-* What are the provincial and regional trends in average household spending in Canada?
+* What trends can be observed in transportation preferences and customer behaviour between provinces and regions?  
+* What are Canada's provincial and regional trends in average household spending?
 * What is the relationship between vehicle sales and the usage of alternative transportation methods across different provinces/regions in Canada?
 * Which province or region has the highest population growth in Canada? 
 
 
 ## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="[https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Summary%20Dashboard.PNG)">
+<img width="1800" alt="Dashboard snapshort" src="(https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Summary%20Dashboard.PNG)">
 
 
 ## Conclusion
 
-*Peak transportation demand occurs between 7-8:59 a.m., signaling the need for tailored strategies. 
+*Peak transportation demand occurs between 7 am and 8:59 a.m., signalling the need for tailored strategies. 
 *Shorter commutes are becoming prevalent, impacting consumer preferences. Private transportation remains favoured across regions, with cars, trucks, or vans being the top choices. 
 *Further research is crucial to understand Uber’s market presence accurately. Householding spending priorities highlight transportation expenses at 14.55%, informing Uber’s pricing strategies. 
 *Provinces like Ontario, Quebec, and Nova Scotia show higher vehicle sales and reliance on private vehicles for commuting, guiding Uber’s expansion plans.
