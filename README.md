@@ -10,7 +10,7 @@
 * (Image from Uber)
 
 ## Project Objective
-* This report explores how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
+* This project explores how Uber can leverage data to understand customer behaviour, preferences, and regional trends in Canada, enabling informed decisions for service expansion and diversification.
 
 ## Dataset
 * The dataset can be accessed from Statistics Canada: 
