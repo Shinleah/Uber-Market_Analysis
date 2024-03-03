@@ -25,7 +25,7 @@
 ![alt text](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/ERD.PNG)
 
 ## Data Analysis
-* Data cleaning is performed power query using M query and DAX measures.
+* Data cleaning is performed by power query (M query) and DAX measures.
 * Made sure data was normalized and kept granularity, dropping unnecessary rows, and cleaning individual rows.
 * Developed the interactive Dashboard based on relevance, appropriate visualizations, colour and data labels, and narrative.
 * By adhering to these principles, the Power BI dashboard aided in communicating intricate information to facilitate meaningful data analysis and informed decision-making for stakeholders.
@@ -47,9 +47,9 @@ The following questions are identified to capture key measurements:
 
 ## Conclusion
 
-*Peak transportation demand occurs between 7 am and 8:59 a.m., signalling the need for tailored strategies. 
-*Shorter commutes are becoming prevalent, impacting consumer preferences. Private transportation remains favoured across regions, with cars, trucks, or vans being the top choices. 
-*Further research is crucial to understand Uber’s market presence accurately. Householding spending priorities highlight transportation expenses at 14.55%, informing Uber’s pricing strategies. 
-*Provinces like Ontario, Quebec, and Nova Scotia show higher vehicle sales and reliance on private vehicles for commuting, guiding Uber’s expansion plans.
-*Prince Edward Island and British Columbia’s rapid population growth signals increasing transportation needs, prompting strategic resource allocation for Uber. 
-*Overall, Uber can use the relationships between the data sets to help strategically expand their services in different provinces.
+* Peak transportation demand occurs between 7 am and 8:59 a.m., signalling the need for tailored strategies. 
+* Shorter commutes are becoming prevalent, impacting consumer preferences. Private transportation remains favoured across regions, with cars, trucks, or vans being the top choices. 
+* Further research is crucial to understand Uber’s market presence accurately. Householding spending priorities highlight transportation expenses at 14.55%, informing Uber’s pricing strategies. 
+* Provinces like Ontario, Quebec, and Nova Scotia show higher vehicle sales and reliance on private vehicles for commuting, guiding Uber’s expansion plans.
+* Prince Edward Island and British Columbia’s rapid population growth signals increasing transportation needs, prompting strategic resource allocation for Uber. 
+* Overall, Uber can use the relationships between the data sets to help strategically expand their services in different provinces.
