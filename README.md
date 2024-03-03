@@ -18,14 +18,21 @@
 [New motor vehicle sales](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000101&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=2.1&pickMembers%5B2%5D=3.1&pickMembers%5B3%5D=5.1&cubeTimeFrame.startMonth=04&cubeTimeFrame.startYear=2019&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2023&referencePeriods=20190401%2C20230801)
 [Main mode of commuting by commuting duration, time leaving for work, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045701)
 
-## Market Analysis
-* Load the Raw Data.
+## ERD Model
+* Created primary key using the composite method.
+* Referenced original query to create new queries with keep granularity.
+* Created one-to-many relationships, using star schema. (one fact table with multiple dimensions table)
+![alt text](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/ERD.PNG)
+
+## Data Analysis
 * Data cleaning is performed power query using M query and DAX measures.
 * Made sure data was normalized and kept granularity, dropping unnecessary rows, and cleaning individual rows.
-* Cleaned the data, and it is ready for developing the Interactive Dashboard.
+* Developed the interactive Dashboard based on relevance, appropriate visualizations, colour and data labels, and narrative.
+* By adhering to these principles, the Power BI dashboard aided in communicating intricate information to facilitate meaningful data analysis and informed decision-making for stakeholders.
+
 
 ## Questions
-Following questions are identified to capture key measurements:
+The following questions are identified to capture key measurements:
 
 * What are the provincial and regional trends in commuting hours within Canada?
 * What trends can be observed in transportation preferences and customer behaviour between provinces and regions?  
@@ -35,7 +42,7 @@ Following questions are identified to capture key measurements:
 
 
 ## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="(https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Summary%20Dashboard.PNG)">
+![alt text](https://github.com/Shinleah/Uber-Market_Analysis/blob/main/Uber%20Market%20Analysis/Summary%20Dashboard.PNG)
 
 
 ## Conclusion
